@@ -5,12 +5,12 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/jvmxgs/eshop.git
+git clone https://github.com/webforcehq/ecommerce-test.git
 ```
 ### Change to directory project
 
 ```bash
-cd eshop
+cd ecommerce-test
 ```
 
 ### Install dependencies
